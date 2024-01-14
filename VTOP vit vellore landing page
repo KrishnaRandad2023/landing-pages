@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="headings">
+        <div class="logo1">
+            <img src="VITLogoEmblem.png" alt="logo of vit" height="50px" width="50px">
+        </div>
+        <div class="VIT">  
+            VIT
+        </div>
+        <div class="campus">
+            <br>
+            (Vellore Campus)
+
+        </div>
+    </div>
+    <div class="MainHeading1">
+        <br><b>VTOP translates to "VIT on TOP"</b>
+        
+    </div>
+    <div class="Mainheading2">
+        <br><b>A digital initiative by the institute facilitating Faculty, Staff, Students, Parents and Alumni to access and
+            process Academics, Research, Supporting services at one common</b>
+        
+    </div>
+    <div>
+        <center><b>platform.</b></center>   
+    </div>
+    <div class="Button_box">
+        <div class="Button_box1">
+            <div class="button_logo1">
+                <img src="students.png" width="56px" alt="students">
+            </div>
+            <div class="button1">
+                <div class="student">
+                    Student
+                </div>
+                <div class="BUTTON_1">
+                    <div class="b4"><a href="https://vtop.vit.ac.in/vtop/login"><img src="./clcik here.png" height="20" width="20"></a></div>
+                </div>
+            </div>
+        </div>
+        <div class="Button_box2">
+            <div class="button_logo2">
+                <img src="employee.png" width="56px">
+            </div>
+            <div class="button2">
+                <div class="employee">Employee</div>
+                <div class="BUTTON_2">
+                    <div class="b4"><a href="https://vtop.vit.ac.in/vtop/login"><img src="./clcik here.png" height="20" width="20"></a></div>
+                </div>
+            </div>
+        </div>
+        <div class="Button_box3">
+            <div class="button_logo3">
+                <img src="./parent.png" width="56px">
+            </div>
+            <div class="button3">
+                <div class="parent">Parent</div>
+                <div class="BUTTON_3">
+                    <div class="b4"><a href="https://vtop.vit.ac.in/vtop/login"><img src="./clcik here.png" height="20" width="20"></a></div>
+                </div>
+            </div>
+        </div>
+        <div class="Button_box4">
+            <div class="button_logo2">
+                <img src="./alumni.png" width="56px" alt="">
+            </div>
+            <div class="button4">
+                <div class="alumni">Alumni</div>
+                
+                <div class="BUTTON_4">
+                    <div class="b4"><a href="https://vtop.vit.ac.in/vtop/login"><img src="./clcik here.png" height="20" width="20"></a></div>
+                </div> 
+            </div>
+        </div>
+    </div>
+    <div class="ImportantNotice">
+        <div class="ranking">
+            <div class="collegeName">
+                &#160;&#160;&#160;&#160;Vellore Institute of Technology (VIT), India
+            </div>
+            <div class="ranks">
+                <ul type="none">
+                <div class="rank_1">
+                    <li>Ranked among the top 601-700 Universities of the world and one among the top 3 Institutions in India<br>(Shanghai ARWU Ranking 2022)</li>
+                </div>
+                <div class="rank_2">
+                    <li>The 8th best University, the 11th best research institution and the 11th best engineering institution in India<br>(NIRF Ranking, Govt. of India 2023)</li>
+                </div>
+                <div class="rank_3">
+                    <li>Engineering and Technology subject areas of VIT are the 240th best in the World and the 9th best in India,<br>eight subjects of VIT are within the top 500 in the world (as per QS World University Rankings by Subject<br>2023)</li>
+                </div>
+                <div class="rank_4">
+                    <li>NAAC Accreditation with A++ grade (3.66 out of 4)</li>
+                </div>
+                <div class="rank_5">
+                    <li>Ranked within the top 200 Universities in Asia (QS - Asia University Rankings 2023)</li>
+                </div>
+            </ul>
+            </div>
+        </div>
+        <div class="ImportantSpotlight">
+            <div class="Spotlight">&#160;&#160;&#160;&#160;Spotlight
+
+            </div>
+            <div class="Notice">
+                <ul class="ul" type="none">
+                <div class="Notice1">
+                    <li>HOSTEL VACATING CONSENT FORM&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</li>
+                </div>
+                <div class="Notice2">
+                    <li>ISSUE FACED IN ACCESSING VTOP FOR JIO USERS?</li>
+                </div>
+                <div class="Notice3">
+                    <li>STUDENT CODE OF CONDUCT : WARNING NOTICE</li>
+                </div>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="App_Heading">
+        <DIV class="_P">Parent App</DIV>
+        <DIV class="_S">Student App</DIV>
+
+    </div>
+    <div class="App_Heading1">
+        <div class="G_P"><a href="https://play.google.com/store/apps/details?id=edu.vit.parentapp"><img src="./google-play-badge.png" height="60" width="180"></a></div>
+        <div class="G_S"><a href="https://play.google.com/store/apps/details?id=edu.vit.vtop.androidapp&hl=ta&gl=US"><img src="./google-play-badge (1).png" height="60" width="180"></a></div>
+    </div>
+    <div class="App_Heading2">
+        <div class="A_P"><a href="https://play.google.com/store/apps/details?id=edu.vit.parentapp"><img src="./AppStore.svg" height="60" width="180"></a></div>
+        <div class="A_S"><a href="https://apps.apple.com/in/app/vitian/id1491471781"><img src="./AppStore (1).svg" height="60" width="180"></a></div>
+    </div>
+</body> 
+
+</html>
+
+
+
+//css
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+.headings{
+    background-color: rgb(34, 34, 199);
+    padding-top:0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    display: flex;
+}
+.VIT{
+    margin-left:12px;
+    color: white;
+    font-size: 200%;
+    margin-top: 9PX;
+}
+.campus{
+    margin-left: 15px;
+    color: white    ;
+}
+.MainHeading1{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    font-size: 200%;
+    font-weight: 400;
+    padding-top: 20px;
+}
+.Mainheading2{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.Button_box{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 25px;
+
+}
+.Button_box1{
+    display: flex;
+    justify-content: space-between;
+    /* border: solid rgb(75, 28, 28) 1px */
+    ;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-top: rgb(17, 0, 255) 3PX solid;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
+}
+.Button_box2{
+    display: flex;
+    justify-content: space-between;
+    /* border: solid rgb(75, 28, 28) 1px */
+    ;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-top: rgb(225, 255, 0) 3PX solid;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
+}
+.Button_box3{
+    display: flex;
+    justify-content: space-between;
+    /* border: solid rgb(75, 28, 28) 1px */
+    ;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-top: rgb(55, 253, 0) 3PX solid;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
+}
+.Button_box4{ 
+    display: flex;
+    justify-content: space-between;
+    /* border: solid rgb(75, 28, 28) 1px; */
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-top: rgb(0, 250, 250) 3PX solid;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
+    
+}
+.button_logo1{
+    padding-right: 100px;
+}
+.button_logo2{
+    padding-right: 100px;
+}
+.button_logo3{
+    padding-right: 100px;
+}
+.button_logo4{
+    padding-right: 100px;
+}
+
+.button3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 15px;
+
+}
+
+.button1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 15px;
+
+}
+
+.button2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 15px;
+
+}
+
+.button4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 15px;
+
+}
+.b1{
+    background-color: blue;
+    width: 20px;
+
+}
+.b2{
+    background-color: rgb(238, 255, 0);
+    width: 20px;
+
+}
+.b3{
+    background-color: rgba(68, 205, 55, 0.908);
+    width: 20px;
+
+}
+.b4{
+    background-color: rgb(0, 242, 255);
+    width: 20px;
+
+}
+.BUTTON_1{
+    padding-left: 10px;
+}
+.BUTTON_2{
+    padding-left: 10px;
+}
+.BUTTON_3{
+    padding-left: 10px;
+}
+.BUTTON_4{
+    padding-left: 10px;
+}
+.ImportantNotice{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 25px;
+}
+
+li::before{
+    content:"▶"
+}
+.Notice1{
+    padding-left: 5px;
+    border-bottom: 2px rgb(198, 191, 191) solid;
+    padding-top: 10px;
+    font-size: 60%;
+    padding-right: 60px;
+}
+.Notice2{
+    padding-left: 5px;
+    border-bottom: 2px rgb(198, 191, 191) solid;
+    padding-top: 10px;
+    font-size: 60%;
+
+
+}
+.Notice3{
+    padding-left: 5px;
+    border-bottom: 2px rgb(198, 191, 191) solid;
+    padding-top: 10px;
+    font-size: 60%;
+
+}
+.rank_1{
+    padding-left: 5px;
+    border-bottom: 2px rgb(198, 191, 191) solid;
+}
+.rank_2{
+    padding-left: 5px;
+    border-bottom: 2px rgb(198, 191, 191) solid;
+}
+.rank_3{
+    padding-left: 5px;
+    border-bottom: 2px rgb(198, 191, 191) solid;
+}
+.rank_4{
+    padding-left: 5px;
+    border-bottom: 2px rgb(198, 191, 191) solid;
+}
+.rank_5{
+    padding-left: 5px;
+    border-bottom: 2px rgb(198, 191, 191) solid;
+}
+.ranks{
+    padding-top: 15px;
+    padding: 15px   ;
+    font-size: 123%;
+}
+.ranking{
+    border-top: 3px solid black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
+    border-radius: 5px;
+    font-size: 81%;
+}
+.collegeName{
+    background-color: rgb(246, 225, 225);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 132%;
+}
+.ImportantSpotlight{
+    border-top: 3px solid black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
+    border-radius: 5px;
+    padding-bottom: 5px;
+    max-height: 150px;
+
+height: 100%;
+}
+.Spotlight{
+    background-color: rgb(246, 225, 225);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* display:flex; */
+    /* align-items: center; */
+    font-size: 132%;
+}
+.Notice{
+    margin-bottom: 25px;
+    padding-bottom: 150px;
+    border-radius: 50px;
+    padding-left: 20px;
+    font-size: 112%;
+}
+.App_Heading{
+    display: flex;
+    justify-content:space-evenly ;
+    padding: 20px;
+    color: blue;
+    font-size: large;
+}
+.App_Heading1{
+    display: flex;
+    justify-content:space-evenly
+}
+.App_Heading2{
+display: flex;
+justify-content:space-evenly
+}
+._P{
+padding-right: 50px;
+}
+._S{
+padding-right: 0px;
+}
+
